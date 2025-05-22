@@ -2,6 +2,8 @@
 
 ## Ferramentas: Angular, Node, and MySQL
 
+## Instruções e observações:
+
 1. Vá até: backend/config/config.json e mude a senha para a sua senha MySQL.
 
 ```json
